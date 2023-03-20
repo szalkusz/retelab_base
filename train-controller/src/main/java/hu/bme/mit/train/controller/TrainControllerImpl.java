@@ -48,6 +48,6 @@ public class TrainControllerImpl implements TrainController {
 
 	public void emergencyBreak() {
 		this.speedLimit = 0;
-		enforceSpeedLimit();
+		COMPILE_ERROR_enforceSpeedLimit();
 	}
 }
