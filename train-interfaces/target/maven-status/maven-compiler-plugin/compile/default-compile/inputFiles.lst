@@ -1,4 +1,4 @@
-/home/cloud/Documents/lab2/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainController.java
-/home/cloud/Documents/lab2/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainSensor.java
-/home/cloud/Documents/lab2/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainTachograph.java
-/home/cloud/Documents/lab2/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainUser.java
+/home/cloud/Documents/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainController.java
+/home/cloud/Documents/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainSensor.java
+/home/cloud/Documents/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainUser.java
+/home/cloud/Documents/retelab_base/train-interfaces/src/main/java/hu/bme/mit/train/interfaces/TrainTachograph.java
