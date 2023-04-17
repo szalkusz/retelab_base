@@ -66,8 +66,6 @@ public class TrainControllerImpl implements TrainController {
     private void updateReferenceSpeed() {
         Timer timer = new Timer();
         TimerTask task = new Helper();
-         
-        //(TimerTask task, Date firstTime, long period)
         timer.schedule(task, 200, 1000);
     }
 }
